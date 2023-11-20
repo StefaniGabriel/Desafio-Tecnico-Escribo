@@ -2,6 +2,10 @@
 
 Este é um simples programa em JavaScript que calcula a soma de todos os números abaixo de um dado número que são divisíveis por 3 ou 5.
 
+### Exemplos:
+   1. Caso sua função receba o inteiro 10, ela deve retornar 23, resultante do somatório dos números 3, 5, 6 e
+      9 que são menores que 10.
+
 ## Como Usar
 
    Certifique-se de ter o Node.js instalado em seu sistema. Se não tiver, você pode baixá-lo [aqui](https://nodejs.org/).
