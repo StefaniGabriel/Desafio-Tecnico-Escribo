@@ -4,11 +4,11 @@ Este é um simples programa em JavaScript que calcula a soma de todos os número
 
 ## Como Usar
 
-Certifique-se de ter o Node.js instalado em seu sistema. Se não tiver, você pode baixá-lo [aqui](https://nodejs.org/).
+   Certifique-se de ter o Node.js instalado em seu sistema. Se não tiver, você pode baixá-lo [aqui](https://nodejs.org/).
 
 1. **Configurando o Ambiente**
    
-Certifique-se de ter o Node.js instalado. Você pode baixá-lo [aqui](https://github.com/StefaniGabriel/Desafio-Tecnico-Escribo).
+   Certifique-se de ter o Node.js instalado. Você pode baixá-lo [aqui](https://github.com/StefaniGabriel/Desafio-Tecnico-Escribo).
 
 3. **Baixando o Programa**
 
