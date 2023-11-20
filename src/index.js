@@ -5,6 +5,7 @@ const rl = readline.createInterface({
   output: process.stdout
 });
 
+// Função que calcula a soma do número recebido
 function numberSum(number) {
   let sum = 0;
 
@@ -17,6 +18,7 @@ function numberSum(number) {
   return sum;
 }
 
+// Função que lida com a pergunta usando uma Promise
 function handleQuestion(question) {
   return new Promise(resolve => {
     rl.question(question, answer => {
@@ -25,6 +27,7 @@ function handleQuestion(question) {
   });
 }
 
+// Função principal que solicita um número ao usuário, calcula a soma e exibe o resultado
 async function askingTerminal() {
   const numberProvided = await handleQuestion("Digite um número inteiro: ");
   if (isNaN(numberProvided)) {
