@@ -12,8 +12,8 @@ Este é um simples programa em JavaScript que calcula a soma de todos os número
 
 3. **Baixando o Programa**
 
-Clique no botão verde "Code" e escolha a opção "Download ZIP".
-Extraia o conteúdo do arquivo ZIP em uma pasta de sua escolha.
+   Clique no botão verde "Code" e escolha a opção "Download ZIP".
+   Extraia o conteúdo do arquivo ZIP em uma pasta de sua escolha.
 
 4. **Navegue até o diretório do projeto:**
 
