@@ -30,6 +30,13 @@ function handleQuestion(question) {
 // Função principal que solicita um número ao usuário, calcula a soma e exibe o resultado
 async function askingTerminal() {
   const numberProvided = await handleQuestion("Digite um número inteiro: ");
+
+  if (numberProvided == '') {
+    handleQuestion("Digite pelo menos um caractere.");
+    rl.close();
+    return
+  }
+
   if (isNaN(numberProvided)) {
     handleQuestion("Caractere inválido! Somente números inteiros!");
     rl.close();
